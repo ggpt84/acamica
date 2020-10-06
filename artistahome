@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gustavo Cerati</title>
+    <style>
+        body {background-color: rgb(218, 162, 142);}
+        h1 {font-style: oblique; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+        li {font-style: italic;}
+        a {font-size: x-large;}
+        </style>
+</head>
+
+<body>
+    <header>
+        <h1>Gustavo Cerati</h1>
+        <img src="https://i2.wp.com/www.mexmads.com/wp-content/uploads/2020/08/gustavo-cerati-retrato.jpg?fit=600%2C400" alt="Gustavo Cerati"> 
+    </header>
+    <h2>¿Quien es Gustavo?</h2>
+    <p> Gustavo Adrián Cerati (Buenos Aires, 11 de agosto de 1959-ibidem, 4 de septiembre de 2014)fue un músico, cantautor, compositor y productor discográfico argentino que obtuvo reconocimiento internacional por haber sido el líder de la banda de rock Soda Stereo. Es considerado uno de los músicos más importantes, populares e influyentes del rock latinoamericano. </p>
+    <h2>Sitio Oficial</h2>
+    <a href="https://www.carati.com">Cerati.com</a>
+    <h2>Galeria de Imagenes</h2>
+    <img src="https://www.duna.cl/media/2020/08/1283-diez-anos-sin-gustavo-cerati.png" alt="Gustavo Cerati imagen 2" height="200">
+    <img src="https://www.duna.cl/media/2018/11/cerati-bios-2.jpeg" alt="Gustavo Cerati imagen 3" height="200">
+    <img src="https://morefmonline.com/wp-content/uploads/2018/09/cerati-696x480.jpg" alt="Gustavo Cerati imagen 4" height="200">
+    <h2>Discografía</h2>
+        <ul>
+                <li> Amor amarillo (1993)</li> <br>
+                <li> Bocanada (1999). </li> <br>
+                <li> Siempre es hoy (2002). </li> <br>
+                <li> Ahí vamos (2006). </li> <br>
+                <li> Fuerza natural (2009). </li> <br>
+        </ul>
+    <h2>Mi Disco Favorito</h2>
+        <iframe src="https://open.spotify.com/embed?uri=spotify:album:2rIdWbXPjcq8K7BCccBhhC" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</body>
+</html>
