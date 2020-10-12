@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenido</h1>
+        <nav>
+        </nav>
+    </header>
+    <main>
+        <section>
+        <section class="contacto">
+            <h2>Por favor complete el formulario</h2>
+            <form action="" method="POST">
+                <div>
+                 <label for="nombre">Nombre:</label>
+                 <input type="text" name="nombre" id="nombre" placeholder="Juan">
+                </div><br>
+               <div>
+                 <label for="apellido">Apellido:</label>
+                 <input type="text" name="apellido" id="apellido" placeholder="Perez">
+               </div><br>
+               <div>
+                 <label for="email">Email:</label>
+                 <input type="email" name="email" id="email" placeholder="juanperez@mail.com" required>
+               </div><br>
+                <div>
+                        <label for="carrera">¿A qué carrera deseas inscribirte?</label>
+                    
+                        <select name="carrera" id="carrera">
+                          <option value="Data Science">Data Science</option>
+                          <option value="Desarrollo Web Full Stack">Desarrollo Web Full Stack</option>
+                          <option value="FrontEnd Avanzado">FrontEnd Avanzado</option>
+                          <option value="UX/UI">UX/UI</option>
+                        </select>
+                </div><br>
+                <div>
+                    <label for="modalidad">Modalidad:</label>
+                    <input type="radio" id="on-line" name="modalidad" value="on-line">
+                    <label for="on-line">On-Line</label>
+                    <input type="radio" id="presencial" name="modalidad" value="presencial">
+                    <label for="presencial"> Presencial</label><br>   
+                  </div><br>
+
+                  
+                  <div>
+                    <label for="trabajo">¿Estás trabajando actualmente?:</label>
+                  </div>
+                  <div>
+                    <textarea name="trabajo" rows="10" cols="40">Completar trabajo actual</textarea>
+                   </div><br>
+            </form>
+                <button type="submit">Enviar</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>Todos los derechos reservados 2020</p>
+    </footer>
+</body>
+</html>
