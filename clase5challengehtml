@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Challenge 5</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+    </style>
+</head>
+<body>
+    <div class= "cuadroazul"> </div>
+    <div class= "cuadrorosa"> </div>
+    <div class= "cuadroverde"> </div>
+    <div class= "piso"> </div>
+    <div class= "minicuadritos1"> </div>
+    <div class= "minicuadritos2"> </div>
+    <div class= "minicuadritos3"> </div>
+    <div class= "minicuadritos4"> </div>
+    <div class= "tornillo1"> </div>
+    <div class= "tornillo2"> </div>
+    <div class= "tornillo3"> </div>
+    <div class= "tornillo4"> </div>
+    <div class= "tornillo5"> </div>
+    <div class= "tornillo6"> </div>
+    <div class= "tornillo7"> </div>
+    <div class= "tornillo8"> </div>
+    <div class= "tornillo9"> </div>
+</body>
+</html>
